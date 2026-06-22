@@ -1,2 +1,15 @@
 # CSCI_Lab3
-Updated Lab 2 C++ applications with while loops, allowing programs to repeatedly run using user-defined exit conditions and improved control flow.
+Adding Loops to C++ Applications
+
+This lab builds on the programs created in Lab 2 by adding loop functionality, allowing each application to run multiple times until the user chooses to exit.
+
+The appliance store calculator, HR job grading system, and basic calculator were updated using while loops to repeatedly process user input. Exit conditions were implemented to control when each program stops running.
+
+Concepts practiced:
+
+While loops
+Boolean conditions
+Program repetition
+Loop control and exit criteria
+User input handling
+Improving previous programs with iteration
